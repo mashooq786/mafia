@@ -94,10 +94,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;96mWrong Password"
-            os.system('xdg-open https://m.youtube.com
-    else:
+            os.system('xdg-open 
+    else:https://youtube.com/@lksyco4261
         print "\033[1;96mWrong Username"
-        os.system('xdg-open https://m.youtube.com
+        os.system('xdg-open https://youtube.com/@lksyco4261
 
 def login():
 	os.system('clear')
