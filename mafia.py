@@ -81,7 +81,7 @@ print  """
 
 
 CorrectUsername = "veer"
-CorrectPassword = "veer"
+CorrectPassword = "ali"
 
 loop = 'true'
 while (loop == 'true'):
