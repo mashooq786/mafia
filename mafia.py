@@ -20,7 +20,7 @@ def keluar():
 	print "\033[1;96m[!]\x1b[1;91mExit"
 	os.sys.exit()
 
-
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 def acak(b):
     w = 'ahtdzjc'
     d = ''
